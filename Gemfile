@@ -42,4 +42,5 @@ end
 
 group :production do
   gem "pg", "1.3.5"
+  ruby "3.2.2"
 end
